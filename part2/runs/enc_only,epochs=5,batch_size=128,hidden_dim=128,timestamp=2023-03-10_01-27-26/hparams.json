@@ -1,0 +1,13 @@
+{
+  "enc_input_dim": 300,
+  "output_dim": 12,
+  "hidden_dim": 128,
+  "lr": 0.001,
+  "seed": 42,
+  "n_epochs": 5,
+  "num_workers": 4,
+  "batch_size": 128,
+  "savedir": "runs",
+  "seq_len": 120,
+  "truncate_seq": null
+}

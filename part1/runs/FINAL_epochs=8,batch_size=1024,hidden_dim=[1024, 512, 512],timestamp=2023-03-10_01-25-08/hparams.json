@@ -1,0 +1,16 @@
+{
+  "input_dim": 900,
+  "output_dim": 12,
+  "hidden_dim": [
+    1024,
+    512,
+    512
+  ],
+  "lr": 0.001,
+  "context": 1,
+  "seed": 42,
+  "n_epochs": 8,
+  "num_workers": 4,
+  "batch_size": 1024,
+  "savedir": "runs"
+}
